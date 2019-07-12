@@ -21,12 +21,12 @@ ServerConnection::ServerConnection(HWND hWinowMain) {
 	addr.sin_port = htons(port);
 	HOSTENT* hst;
 
-	// �������������� IP ������ �� ����������� � ������� ������
+	
 	if (inet_addr(servIP) != INADDR_NONE)
 		addr.sin_addr.s_addr = inet_addr(servIP);
 	else
 	{
-		// ������� �������� IP ����� �� ��������� ����� �������
+		
 		if (hst = gethostbyname(servIP))
 			// hst->h_addr_list �������� �� ������ �������,
 			// � ������ ���������� �� ������
