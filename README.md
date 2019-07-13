@@ -1,5 +1,6 @@
 # Practice2
-## Неre presented summer practice in MAI on 2nd course. Thith work can use only for education targets.
+## Неre presented summer practice in MAI on 2nd course. 
+
 ### Server run
 
 Before compilation server you shoud add MySQL Server and MySQL Connector C++ (8.0 version all) to your include-path 
@@ -25,5 +26,5 @@ Client use Standart WinAPI Forms for construct windows interface.
 Conection beetwen server and user creared in WinAPI sockets (winsock2). Messages encripts with algorithm RSA. 
 
 Google and VK authorisation doesn't work yet.
-
-#### Made by Bronnikov Maksim and Zhivih Maksim.
+##### Thith work used only for education purposes. For more information please report.pdf
+#### Made by Bronnikov Maksim and Zhivih Maksim. 
