@@ -26,5 +26,5 @@ Client use Standart WinAPI Forms for construct windows interface.
 Conection beetwen server and user creared in WinAPI sockets (winsock2). Messages encripts with algorithm RSA. 
 
 Google and VK authorisation doesn't work yet.
-##### Thith work used only for education purposes. For more information please see report.pdf
+##### This work used only for education purposes. For more information please see report.pdf
 #### Made by Bronnikov Maksim and Zhivih Maksim. 
